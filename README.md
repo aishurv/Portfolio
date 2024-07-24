@@ -5,7 +5,6 @@ This repository contains the source code for Laxmi Wandare's personal portfolio 
 ## Table of Contents
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
-- [Structure](#structure)
 - [Sections](#sections)
 - [Usage](#usage)
 - [Contact](#contact)
@@ -23,42 +22,12 @@ The portfolio website provides an overview of my professional background and ski
 - Font Awesome
 - Devicons
 
-## Structure
-The project is structured as follows:
-Laxmi-Wandare-Portfolio/
-├── css/
-│ └── resume.min.css
-├── img/
-│ └── profile.jpg
-├── vendor/
-│ ├── bootstrap/
-│ │ ├── css/
-│ │ │ └── bootstrap.min.css
-│ │ └── js/
-│ │ └── bootstrap.bundle.min.js
-│ ├── devicons/
-│ │ └── css/
-│ │ └── devicons.min.css
-│ ├── font-awesome/
-│ │ └── css/
-│ │ └── font-awesome.min.css
-│ ├── jquery/
-│ │ └── jquery.min.js
-│ ├── jquery-easing/
-│ │ └── jquery.easing.min.js
-│ └── simple-line-icons/
-│ └── css/
-│ └── simple-line-icons.css
-├── index.html
-└── js/
-└── resume.min.js
-
 
 ## Sections
 ### About
 Provides an introduction about me, including contact information and a brief bio.
 
-### Experience
+### Internships
 Lists my work experience and internships, detailing roles, responsibilities, and duration.
 
 ### Education
